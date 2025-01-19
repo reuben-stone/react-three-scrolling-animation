@@ -1,4 +1,4 @@
-# React Three Scrolling Animation
+# React Three Fiber Scrolling Animation
 
 ![Screnshot](/screenshot.png?raw=true "Screenshot")
 
